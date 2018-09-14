@@ -1,0 +1,18 @@
+{
+    "readMember": {
+        "cac1d979ce7727b1318a440b1e61ae0a6": [
+            "u47e6e6a25e80a45f117a27f85afc9916",
+            "u33699ed350f7715fce593dd4e8a5d475",
+            "uac3be5e86d7812e8cc28a6a312f52777",
+            "u0a352677d185ec9021ccb4ce4d63ed7b"
+        ],
+        "cdfe719304ab73d67c8689ceea1f13a4d": [
+            "u944c5e70a6302e1a2fe0900c864691d4",
+            "ue8d93baaefc4ff7a16f057a2fa50f5ef"
+        ]
+    },
+    "readPoint": {
+        "cac1d979ce7727b1318a440b1e61ae0a6": "8356125374283",
+        "cdfe719304ab73d67c8689ceea1f13a4d": "8354365670639"
+    }
+}
